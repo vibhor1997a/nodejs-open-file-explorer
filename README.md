@@ -12,7 +12,7 @@ npm install open-file-explorer --save
 yarn add open-file-explorer
 ```
 
-##Usage
+## Usage
 
 ```javascript
 const openExplorer = require('open-file-explorer');
