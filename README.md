@@ -3,11 +3,11 @@ This module helps in opening explorer/finder in your OS programatically providin
 
 ## Installation
 
-1. npm
+### 1. npm
 ```sh
 npm install open-file-explorer --save
 ```
-2. Yarn
+### 2. Yarn
 ```sh
 yarn add open-file-explorer
 ```
