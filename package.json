@@ -1,6 +1,6 @@
 {
   "name": "open-file-explorer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open the given file path in the File explorer in your OS",
   "main": "index.js",
   "keywords": [
