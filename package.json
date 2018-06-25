@@ -1,0 +1,16 @@
+{
+  "name": "open-file-explorer",
+  "version": "1.0.0",
+  "description": "Open the given file path in the File explorer in your OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "explorer",
+    "file explorer"
+  ],
+  "author": "vibhor agrawal <vibhor349a@rediffmail.com>",
+  "license": "ISC"
+}
